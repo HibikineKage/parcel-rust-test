@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";AAEA,aAAA,QAAA,YAAA,EAFA,IAAA,EAAA,QAAA,cAEM,QAAQ,IAAI,EAAA,IAAI,EAAG,IACzB,QAAQ,IAAI,EAAA","file":"parcel-rust-test.5d91cf2e.map","sourceRoot":"..","sourcesContent":["import { add } from './hello.rs';\n\n(()=>{console.log(add(2, 3));\nconsole.log(add);})()"]}
