@@ -1,0 +1,10 @@
+[package]
+name = "parcel-rust-test"
+version = "0.1.0"
+authors = ["Hibikine Kage <goodsmile314159@gmail.com"]
+
+[dependencies]
+wasm-bindgen = "*"
+
+[lib]
+crate-type = ["cdylib"]
